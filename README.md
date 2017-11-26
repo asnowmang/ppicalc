@@ -12,4 +12,4 @@ This program calculates pixels per unit, inches, centimeters, etc. work.
     PPI: 453
     
 #### License
-This library is licensed under the ISC License. See LICENSE.md for details.
+This program is licensed under the ISC License. See LICENSE.md for details.
