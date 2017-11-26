@@ -2,7 +2,7 @@
 asnowmang's Fortran 77 pixel density calculator
 
 #### About
-This program calculates pixels per unit, inches, centimeters, etc. work. 
+This program calculates pixels per unit (inches, centimeters, etc.)
 
 #### Example
     % ppicalc
