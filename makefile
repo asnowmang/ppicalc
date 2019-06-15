@@ -1,5 +1,5 @@
 SHELL   = /bin/sh
-FC	= gfortran
+FC	= flang
 FLAGS	= -Wall -Wextra -Wconversion -O3
 SOURCES = ppicalc.f
 TARGET  = ppicalc
